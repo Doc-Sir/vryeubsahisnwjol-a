@@ -7,4 +7,4 @@ Hopefully you enjoy the website!
 * Added html, fonts, and js to the site.
 * Edited the html href link.
   
-![alt text](https://github.com/userpages/userweb/blob/main/images/d8db7c6f3ac14b3a7c6d27e3a430b4af%20(1).gif)
+![alt text](https://github.com/userpages/userweb/blob/main/images/readmeimage.gif)
